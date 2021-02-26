@@ -32,5 +32,6 @@ public class Home {
 		        + " ³ªÀÌ : " + m.getAge());
 
 	}
+	
 
 }
